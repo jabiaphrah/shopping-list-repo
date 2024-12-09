@@ -1,0 +1,5 @@
+.purchased {
+  text-decoration: line-through;
+  color: gray;
+  background-color: #d3ffd3; /* Light green background for purchased items */
+}
